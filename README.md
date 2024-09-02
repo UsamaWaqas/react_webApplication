@@ -1,10 +1,11 @@
 # React JS Landing Page Template
 
 **
+<h2>clone :</h2>
+ git clone https://github.com/UsamaWaqas/react_webApplication.git
 
 
-
-
+<a href='https://adorable-gingersnap-38e8f3.netlify.app/'> Live demo</a>
 
 
 ## Make it Yours!
